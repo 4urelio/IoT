@@ -21,8 +21,8 @@ WidgetLED ledSuhu = V7;
 WidgetLED ledCahaya = V6;
 
 char auth[] = "Ylcpp8rwY1yNU0z5B_fuI0hPaWishyLi";
-char ssid[] = "Hello there";
-char pass[] = "Australia281198#";
+char ssid[] = "";
+char pass[] = "";
 
 void setup()
 {
